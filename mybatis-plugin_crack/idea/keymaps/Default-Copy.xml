@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="DefaultCopy" parent="$default">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt LEFT" />
+  </action>
+  <action id="ChangeSignature" />
+  <action id="CheckinProject" />
+  <action id="CloneElement" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="control SEMICOLON" />
+  </action>
+  <action id="CopyElement">
+    <keyboard-shortcut first-keystroke="shift F10" />
+  </action>
+  <action id="CopyLinesExAction">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="F9" />
+  </action>
+  <action id="Debugger.ViewText">
+    <keyboard-shortcut first-keystroke="F3" />
+  </action>
+  <action id="DuplicateLinesExAction">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="EditorContextInfo">
+    <keyboard-shortcut first-keystroke="control alt Q" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="control Y" />
+    <keyboard-shortcut first-keystroke="control D" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt D" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="control F" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="control L" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift control L" />
+  </action>
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="shift alt F5" />
+  </action>
+  <action id="ForceStepOver">
+    <keyboard-shortcut first-keystroke="shift alt F6" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt RIGHT" />
+  </action>
+  <action id="Git.Push" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="control B" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="F3" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="control alt B" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="control T" />
+  </action>
+  <action id="Hotswap">
+    <keyboard-shortcut first-keystroke="control alt R" />
+  </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="control Q" />
+  </action>
+  <action id="Move">
+    <keyboard-shortcut first-keystroke="F10" />
+  </action>
+  <action id="NextOccurence" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="PreviousOccurence" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="alt Q" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift alt R" />
+  </action>
+  <action id="RerunTests" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="F8" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift F9" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift control alt F" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift control SEMICOLON" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="F5" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="F7" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="F6" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+</keymap>
+
